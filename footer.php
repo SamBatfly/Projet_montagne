@@ -1,6 +1,9 @@
 
+
+
 <div class="container footer">
 	<div id="row">
+	    <nav class="navbar navbar-default"> 
 		<div class="copyright col-md-6">
 			<p>
 				Copyright &#169; <?php print(date(Y)); ?> <?php bloginfo('name'); ?>
@@ -15,7 +18,8 @@
 			<a href="#">Contact</a>
 			<a href="#">Mentions légales</a>
 			<a href="#">Plan du site</a>
-		</div>	
+		</div>
+		</nav>	
 	</div>
 </div>
 
