@@ -1,5 +1,40 @@
+
+<!-- Navigation
+    ================================================== -->
+ 
+<?php wp_nav_menu(array('Theme Guy Montagne' => 'main_menu')); ?>
+
+					</nav>
+
+
+  <header class="row">
+		<div class="container-fluid">
+	    <nav class="navbar navbar-default navbar-header navbar-fixed-top" role="navigation">   
+	      <div class="navbar-header">   
+	        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+	          <span class="icon-bar"></span>
+	          <span class="icon-bar"></span>
+	          <span class="icon-bar"></span>
+	        </button>
+	        <a class="navbar-brand" href="#"></a>
+	      </div>
+	      <div class="collapse navbar-collapse">
+	        <ul class="nav navbar-nav">
+	          <li><a href="#">ACCUEIL</a></li>
+	          <li><a href="#">SPECTACLES</a></li>
+	          <li><a href="#">VIDEOS</a></li>
+	          <li><a href="#">BIOGRAPHIE</a></li>
+	          <li><a href="#">PRESSE</a></li>
+	          <li><a href="#">BOUTIQUE</a></li>
+	          <li><a href="#">NEWSLETTER</a></li>
+	          <li><a href="#">CONTACT</a></li>
+	        </ul>
+	      </div>
+	    </div>
+    </nav>
+
 <div class="sidebar">
-		Navbar : Prout ! Prout ! Prout ! Prout ! Prout !
+	
 	<!-- <ul>
 
 		<li id="calendar"><h2>Calendrier</h2>
