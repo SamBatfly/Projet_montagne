@@ -2,12 +2,12 @@
 <!-- Navigation
     ================================================== -->
  
-<?php wp_nav_menu(array('Theme Guy Montagne' => 'main_menu')); ?>
+<!-- <?php wp_nav_menu(array('Theme Guy Montagne' => 'main_menu')); ?>
 
-					</nav>
+					</nav> -->
 
 
-  <header class="row">
+  <div class="row">
 		<div class="container-fluid">
 	    <nav class="navbar navbar-default navbar-header navbar-fixed-top" role="navigation">   
 	      <div class="navbar-header">   
@@ -30,12 +30,13 @@
 	          <li><a href="#">CONTACT</a></li>
 	        </ul>
 	      </div>
-	    </div>
-    </nav>
+    	</nav>
+	  </div>
+	</div>
 
-<div class="sidebar">
+<!-- <div class="sidebar">
 	
-	<!-- <ul>
+	<ul>
 
 		<li id="calendar"><h2>Calendrier</h2>
 			<?php get_calendar(); ?>
@@ -46,5 +47,5 @@
 			</ul>
 			<?php wp_list_pages('title_li=<h2>Pages</h2>'); ?>
 		</li>
-	</ul> -->
-</div>
+	</ul>
+</div> -->
