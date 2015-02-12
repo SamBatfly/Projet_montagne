@@ -24,7 +24,7 @@
 	          <li><a href="#">SPECTACLES</a></li>
 	          <li><a href="#">VIDEOS</a></li>
 	          <li><a href="#">BIOGRAPHIE</a></li>
-	          <li><a href="#">PRESSE</a></li>
+	          <li><a href="#">ESPACE PRESSE</a></li>
 	          <li><a href="#">BOUTIQUE</a></li>
 	          <li><a href="#">NEWSLETTER</a></li>
 	          <li><a href="#">CONTACT</a></li>
