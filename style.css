@@ -9,8 +9,21 @@ Creation Samuel Labadie, Amélie Morin, Séverine Carré ||
 */
 
 /* Header */
+ /* Titre */
 
 h1
+{
+	margin-top: 90px;
+}
+
+ /* Bandeau */
+.bandeau
+{
+	margin: auto;
+	
+} 
+ /* Navigation */
+.navbar
 {
 	margin-top: 90px;
 }
@@ -21,14 +34,16 @@ h1
 {
 	text-align: left;
 	margin-bottom: 0px;
-	margin-left: 20px;
+}
+
+.boutons
+{
+	text-align: center;
 }
 
 .liens
 {
 	text-align: right;
-	margin-bottom: 15px;
-	margin-right: 20px;
 }
 
 .liens a 
